@@ -1,12 +1,12 @@
 {
   "version": "V0.2.13",
-  "pub_date": "2026-06-15T07:09:38.581Z",
+  "pub_date": "2026-06-15T08:39:47.767Z",
   "git": {
-    "commit": "87c35a2970d423709ff81a32165ad0a1ffc622a7",
+    "commit": "3b9e9de96804bd4d9a44f146caf4eca7369d2fbe",
     "branch": "main"
   },
   "release_url": "https://github.com/z806738350-source/AI-CanvasPro-release",
   "package_sha256": "",
-  "notes": "Initial private hot update release tree for V0.2.13",
+  "notes": "Hot update release tree with deploy key fetch support",
   "platforms": {}
 }
