@@ -1,12 +1,12 @@
 {
   "version": "V0.2.13",
-  "pub_date": "2026-06-15T08:39:47.767Z",
+  "pub_date": "2026-06-15T09:28:42.735Z",
   "git": {
-    "commit": "3b9e9de96804bd4d9a44f146caf4eca7369d2fbe",
+    "commit": "f453e744884de0ae60c7138292ff121700d2f7d6",
     "branch": "main"
   },
   "release_url": "https://github.com/z806738350-source/AI-CanvasPro-release",
   "package_sha256": "",
-  "notes": "Hot update release tree with deploy key fetch support",
+  "notes": "Hot update release tree with project save gate before apply",
   "platforms": {}
 }
