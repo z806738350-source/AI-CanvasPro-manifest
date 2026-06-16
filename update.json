@@ -1,12 +1,12 @@
 {
-  "version": "V0.2.14",
-  "pub_date": "2026-06-16T06:12:22.781Z",
+  "version": "V0.2.15",
+  "pub_date": "2026-06-16T09:24:06.706Z",
   "git": {
-    "commit": "2889b0aa3c1e5d0893366acd68c0327facd1132c",
+    "commit": "83144e4d1701654fa9495223c048f502428ae0ad",
     "branch": "main"
   },
   "release_url": "https://github.com/z806738350-source/AI-CanvasPro-release",
-  "package_sha256": "36E8E5AF4AA75272465D2B472670009684DB2256AB912AF38CC715D8311EB60E",
-  "notes": "Adds browser cache migration guard, package .env hot update config, Windows SSH key path quoting, V0.2.14 runtime version stamp, first-start migration shell handling, and refreshed V0.2.14 full package metadata.",
+  "package_sha256": "563B64B55C606276BD6639A7199668046BDE45D6943B4AFBD8436A7F1136F282",
+  "notes": "Adds the production Settings > Update entry, startup auto update checks, V0.2.15 runtime version stamp, and refreshed full distribution package.",
   "platforms": {}
 }
